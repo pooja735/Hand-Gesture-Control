@@ -40,8 +40,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-repo/gesture-recognition.git
-cd gesture-recognition
+git clone https://github.com/pooja735/Hand-Gesture-Control.git
 
 Install dependencies:
 
